@@ -208,7 +208,7 @@ figcaption {
 /*right side picture*/
 /*span*/.image_span {
     float: right;
-    right: 800px;
+    margin-left: -100px;
     max-width: 400px;
     margin-top: -100px;
 }
