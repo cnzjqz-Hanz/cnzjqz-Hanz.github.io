@@ -207,12 +207,10 @@ figcaption {
 
 /*right side picture*/
 /*span*/.image_span {
-    left: calc(100% + 4rem);
     float: right;
     margin-left: -10px;
     max-width: 400px;
-    position: absolute;
-    top: 0;
+    margin-top: -100px;
 }
 
 /*span*/.sidenote {
