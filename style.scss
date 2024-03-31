@@ -208,8 +208,9 @@ figcaption {
 /*right side picture*/
 /*span*/.image_span {
     float: right;
-    margin-left: 0px;
-    max-width: 400px;
+    margin-left: -0px;
+    max-width: 800px;
+    margin-top: -200px;
 }
 
 /*span*/.sidenote {
