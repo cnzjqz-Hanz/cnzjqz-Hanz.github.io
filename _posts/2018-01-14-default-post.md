@@ -21,7 +21,7 @@ jekyll serve
 
 You'll want to make edits to the <code>_config.yml</code> and <code>Gemfile</code> for core setting changes. For navigation, heading, footer or post layout changes - edit the corresponding HTML files in the includes folder.
 
-That's it for setup!
+That's it for setup!!
 
 ## Structure &amp; Elements
 
