@@ -96,6 +96,11 @@ a,a:visited {
     }
 }
 
+i {
+    font-size: 24px; /* 设置图标的大小 */
+    margin-right: 10px; /* 设置图标之间的距离 */
+}
+
 blockquote {
     font-style: italic;
     margin: 0;
@@ -201,7 +206,7 @@ figcaption {
     max-width: 400px;
     padding-top: 1rem;
     position: absolute;
-    top: -100;
+    top: 0;
     width: 50%;
 }
 
