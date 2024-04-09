@@ -387,3 +387,12 @@ nav {
     .highlight{border-color: grey !important;}
     img,iframe,.highlight,a:hover,a:focus{filter:invert(1);}
 }
+
+#clustrmaps-widget {
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    width: 100%; /* 根据需要调整宽度 */
+}
+  
