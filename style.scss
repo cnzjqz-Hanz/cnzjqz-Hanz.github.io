@@ -101,6 +101,10 @@ i {
     margin-right: 10px; /* 设置图标之间的距离 */
 }
 
+.fa:hover {
+    color: rgb(220, 40, 40); /* 设置图标的颜色 */
+}
+
 blockquote {
     font-style: italic;
     margin: 0;
